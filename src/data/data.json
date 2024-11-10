@@ -1,0 +1,169 @@
+{
+	"menu": {
+		"sections": [
+			{
+				"id": "starters",
+				"title": "Starters",
+				"items": [
+					{
+						"name": "Tomato Toast",
+						"price": 29,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-01.jpg",
+							"srcset": "./img/menu/image-01@2x.jpg 2x"
+						},
+						"tags": ["vegan"]
+					},
+					{
+						"name": "Noodle Soup",
+						"price": 5,
+						"oldPrice": 8,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-02.jpg",
+							"srcset": "./img/menu/image-02@2x.jpg 2x"
+						}
+					},
+					{
+						"name": "Pumpkin Soup",
+						"price": 5,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-03.jpg",
+							"srcset": "./img/menu/image-03@2x.jpg 2x"
+						},
+						"tags": ["special"],
+						"label": "Starter of the Day"
+					}
+				]
+			},
+			{
+				"id": "breakfast",
+				"title": "Breakfast",
+				"items": [
+					{
+						"name": "Delicious Pancakes",
+						"price": 29,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-04.jpg",
+							"srcset": "./img/menu/image-04@2x.jpg 2x"
+						}
+					},
+					{
+						"name": "Sweet Heaven",
+						"price": 5,
+						"oldPrice": 8,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-05.jpg",
+							"srcset": "./img/menu/image-05@2x.jpg 2x"
+						}
+					},
+					{
+						"name": "Oatmeal Spirit",
+						"price": 5,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-06.jpg",
+							"srcset": "./img/menu/image-06@2x.jpg 2x"
+						},
+						"tags": ["special"],
+						"label": "Breakfast of the Day"
+					},
+					{
+						"name": "Avocado Smash",
+						"price": 5,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-07.jpg",
+							"srcset": "./img/menu/image-07@2x.jpg 2x"
+						}
+					}
+				]
+			},
+			{
+				"id": "dinner",
+				"title": "Dinner",
+				"items": [
+					{
+						"name": "Italian Pizza",
+						"price": 29,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-08.jpg",
+							"srcset": "./img/menu/image-08@2x.jpg 2x"
+						},
+						"tags": ["vegan"]
+					},
+					{
+						"name": "Sea Curry",
+						"price": 5,
+						"oldPrice": 8,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-09.jpg",
+							"srcset": "./img/menu/image-09@2x.jpg 2x"
+						}
+					},
+					{
+						"name": "Vegan Burger",
+						"price": 5,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-10.jpg",
+							"srcset": "./img/menu/image-10@2x.jpg 2x"
+						},
+						"tags": ["vegan", "special"],
+						"label": "Lunch of the Day"
+					},
+					{
+						"name": "Noodle Bowl",
+						"price": 5,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-11.jpg",
+							"srcset": "./img/menu/image-11@2x.jpg 2x"
+						}
+					}
+				]
+			},
+			{
+				"id": "drinks",
+				"title": "Drinks",
+				"items": [
+					{
+						"name": "Panthouse Tonic",
+						"price": 29,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-12.jpg",
+							"srcset": "./img/menu/image-12@2x.jpg 2x"
+						},
+						"tags": ["vegan"]
+					},
+					{
+						"name": "Apple Breeze",
+						"price": 5,
+						"oldPrice": 8,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-13.jpg",
+							"srcset": "./img/menu/image-13@2x.jpg 2x"
+						}
+					},
+					{
+						"name": "Frenchman Blitz",
+						"price": 5,
+						"description": "Lorem ipsum dolor sit amet, consectetur",
+						"img": {
+							"src": "./img/menu/image-14.jpg",
+							"srcset": "./img/menu/image-14@2x.jpg 2x"
+						}
+					}
+				]
+			}
+		]
+	}
+}
